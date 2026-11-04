@@ -1,0 +1,26 @@
+[
+  {
+    "source": "ali.ipynb",
+    "source_sha256": "49ae819ba382b938e6694e634f2ac2c2845dcd1ff2048c74cccccc2a1425b228",
+    "packaged_path": "notebooks/ali.ipynb",
+    "packaged_sha256": "c40f01df7bfbc2418ff6b0e226a2b08b4df806457cb9704d7dfdecafe617f389"
+  },
+  {
+    "source": "ali2.ipynb",
+    "source_sha256": "936bf68b4fd54b8a653466b952a1e90ef8a143a7d22e5d29c48e6ef7d80cad93",
+    "packaged_path": "notebooks/ali2.ipynb",
+    "packaged_sha256": "79d258209ffd958695d5557ddaa55cbb1128fbe9c2082e86c2e0790e9b65b8e7"
+  },
+  {
+    "source": "mohammadreza.ipynb",
+    "source_sha256": "07c53d960379fec858c73d3b97574aec8a1bd33a618038c70a79786afa987a94",
+    "packaged_path": "archive/team-notebooks/mohammadreza.ipynb",
+    "packaged_sha256": "aabb7796cf15f313d0917a1f006c42f9ab52a4f6a7c9bb6a02068a7a31511d95"
+  },
+  {
+    "source": "parsa-final.ipynb",
+    "source_sha256": "1f541454f93f1e6083e4f0ce8df9f155913f85fea2dc86de8f5d8b8c5b9e7760",
+    "packaged_path": "archive/team-notebooks/parsa-final.ipynb",
+    "packaged_sha256": "0d45cb6c5723db72c854b84367f9b213952393b364e2f122bf8cafd95196a356"
+  }
+]

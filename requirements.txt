@@ -1,0 +1,10 @@
+# HBSIR version recorded in the submitted ali.ipynb.
+# Other exact dependency versions were not recorded; this is not a lockfile.
+hbsir==0.6.3
+numpy
+pandas
+matplotlib
+statsmodels
+scikit-learn
+jupyterlab
+PyYAML
